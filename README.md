@@ -59,7 +59,6 @@ a.   KVL:
 ![WhatsApp Image 2025-12-18 at 9 44 34 PM](https://github.com/user-attachments/assets/8bc09788-63f5-4d33-9a65-d21ea17aa5fe)
 
 
-
 b.  KCL:
 ![WhatsApp Image 2025-12-18 at 9 44 46 PM](https://github.com/user-attachments/assets/6c803215-df62-418c-b6de-6ab18e603f86)
 
